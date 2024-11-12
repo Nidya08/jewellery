@@ -1,0 +1,27 @@
+.overlay{
+    position: absolute;
+    top:70%;
+    left: 10%;
+    font-size: 50px;
+    font-family:fantasy;
+    color: rgb(109, 105, 160);
+}
+
+.overlay:hover{
+    text-shadow: 4px 6px 8px palevioletred;
+    text-decoration: none;
+}
+
+.styles{
+    font-family: "Dancing Script", cursive;
+    color: pink;
+}
+
+footer{
+    background-color: pink;
+}
+
+#a:hover{
+    box-shadow: 2px 4px 6px rgb(234, 199, 216);
+    scale: 1.05;
+}
